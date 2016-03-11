@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private  String  trung;
+    private  String  trung123;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
